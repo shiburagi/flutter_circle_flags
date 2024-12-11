@@ -92,6 +92,7 @@ abstract class Flags {
     ES,
     ESPERANTO,
     ET,
+    EU,
     EUROPEAN_UNION,
     FI,
     FJ,
@@ -392,6 +393,7 @@ abstract class Flags {
   static const String ES = 'es';
   static const String ESPERANTO = 'esperanto';
   static const String ET = 'et';
+  static const String EU = 'eu';
   static const String EUROPEAN_UNION = 'european_union';
   static const String FI = 'fi';
   static const String FJ = 'fj';
